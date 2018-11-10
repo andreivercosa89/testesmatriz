@@ -1,0 +1,11 @@
+/Users/aluno/Projects/testesmatriz/testesmatriz/bin/Debug/netcoreapp2.1/testesmatriz.deps.json
+/Users/aluno/Projects/testesmatriz/testesmatriz/bin/Debug/netcoreapp2.1/testesmatriz.runtimeconfig.json
+/Users/aluno/Projects/testesmatriz/testesmatriz/bin/Debug/netcoreapp2.1/testesmatriz.runtimeconfig.dev.json
+/Users/aluno/Projects/testesmatriz/testesmatriz/bin/Debug/netcoreapp2.1/testesmatriz.dll
+/Users/aluno/Projects/testesmatriz/testesmatriz/bin/Debug/netcoreapp2.1/testesmatriz.pdb
+/Users/aluno/Projects/testesmatriz/testesmatriz/obj/Debug/netcoreapp2.1/testesmatriz.csprojAssemblyReference.cache
+/Users/aluno/Projects/testesmatriz/testesmatriz/obj/Debug/netcoreapp2.1/testesmatriz.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/testesmatriz/testesmatriz/obj/Debug/netcoreapp2.1/testesmatriz.AssemblyInfoInputs.cache
+/Users/aluno/Projects/testesmatriz/testesmatriz/obj/Debug/netcoreapp2.1/testesmatriz.AssemblyInfo.cs
+/Users/aluno/Projects/testesmatriz/testesmatriz/obj/Debug/netcoreapp2.1/testesmatriz.dll
+/Users/aluno/Projects/testesmatriz/testesmatriz/obj/Debug/netcoreapp2.1/testesmatriz.pdb
